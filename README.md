@@ -6,7 +6,11 @@ Claude Code generates a unique buddy for each user based on their account UUID.
 ChangeClaudePet lets you search millions of seeds in parallel to find one that
 produces the exact companion you want — species, rarity, stats, cosmetics, and all.
 
-<video src="https://github.com/DrishtantKaushal/ChangeClaudePet/raw/main/demo/BuddyProgram.mp4" controls width="100%"></video>
+<p align="center">
+  <img src="demo/BuddyProgram-preview.gif" alt="ChangeClaudePet demo" width="720">
+  <br>
+  <a href="https://github.com/DrishtantKaushal/ChangeClaudePet/releases/download/v1.0.0/BuddyProgram.mp4">Watch full demo (mp4)</a>
+</p>
 
 ## Quick Start
 
