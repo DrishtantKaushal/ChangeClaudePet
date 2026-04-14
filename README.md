@@ -6,6 +6,8 @@ Claude Code generates a unique buddy for each user based on their account UUID.
 ChangeClaudePet lets you search millions of seeds in parallel to find one that
 produces the exact companion you want — species, rarity, stats, cosmetics, and all.
 
+<video src="https://github.com/DrishtantKaushal/ChangeClaudePet/raw/main/demo/BuddyProgram.mp4" controls width="100%"></video>
+
 ## Quick Start
 
 ```bash
@@ -24,6 +26,8 @@ for matching UUIDs using all available CPU cores.
 | Rarity     | common · uncommon · rare · epic · legendary                                                |
 | Cosmetics  | eye style, hat, shiny status                                                               |
 | Stats      | DEBUGGING, PATIENCE, CHAOS, WISDOM, SNARK — pick peak/dump or set a minimum total          |
+
+<img src="demo/BuddyCharacters.jpeg" alt="All 18 buddy species" width="600">
 
 ## Applying Your Choice
 
