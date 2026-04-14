@@ -1,24 +1,24 @@
 {
   "name": "ChangeClaudePet",
   "version": "1.0.0",
-  "description": "Find UUIDs that produce specific Claude Code buddy companions — custom fork by Drishtant",
+  "description": "Customize your Claude Code companion by finding the perfect UUID seed",
   "keywords": [
     "buddy",
     "bun",
     "claude",
     "claude-code",
     "companion",
-    "petpet"
+    "pet"
   ],
-  "homepage": "https://github.com/rayhanadev/claude-petpet#readme",
+  "homepage": "https://github.com/DrishtantKaushal/ChangeClaudePet#readme",
   "bugs": {
-    "url": "https://github.com/rayhanadev/claude-petpet/issues"
+    "url": "https://github.com/DrishtantKaushal/ChangeClaudePet/issues"
   },
   "license": "MIT",
-  "author": "Rayhan Noufal Arayilakath",
+  "author": "Drishtant Kaushal",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rayhanadev/claude-petpet.git"
+    "url": "git+https://github.com/DrishtantKaushal/ChangeClaudePet.git"
   },
   "bin": {
     "ChangeClaudePet": "src/cli.ts"
